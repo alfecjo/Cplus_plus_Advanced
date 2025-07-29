@@ -41,7 +41,7 @@ The concepts shown here are commonly found in:
 ---
 ![Final Development](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/basic-cpp/assets/BasicCppTemplate.png)
 
-![Player Development](https://github.com/alfecjo/Cplus_plus_Advanced)
+![Player Development](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/basic-cpp/assets/PlayerBasicCppTemplate.png)
 ---
 
 ## How to Build

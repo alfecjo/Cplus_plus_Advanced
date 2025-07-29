@@ -1,4 +1,4 @@
-# C++ Advanced Projects Portfolio
+# C++ Advanced Projects
 
 Welcome to my personal C++ projects portfolio, built and organized on Ubuntu using the GCC compiler.  
 This repository serves as a central hub for various projects that explore advanced features of C++, demonstrating practical implementations of powerful techniques and concepts.

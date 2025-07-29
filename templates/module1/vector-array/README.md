@@ -59,7 +59,7 @@ You can see `std::vector` in action in:
 
 ---
 
-![Final Development](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/basic-cpp/assets/BasicCppTemplate.png)
+![Final Development](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/module1/vector-array/ArrayVector.png)
 
 ---
 

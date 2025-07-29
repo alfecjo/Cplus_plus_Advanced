@@ -35,6 +35,11 @@ These projects are structured to reflect not only my learning journey but also m
 
 ---
 
+### 📘 Project 001 — Basic CPP  
+[![Project 001](https://img.shields.io/badge/Project_001-Array-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/templates/basic-cpp)
+
+---
+
 📌 **Note:** This project is evolving. More modules, examples, and advanced C++ features will be continuously added.
 
 

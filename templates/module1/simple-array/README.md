@@ -40,7 +40,7 @@ The concepts shown here are commonly found in:
 
 ---
 
-![SimpleArray](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/module1/simple-array/simplearray.jpg)
+![SimpleArray](./simplearray.jpg)
 
 ---
 

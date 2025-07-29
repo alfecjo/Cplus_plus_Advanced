@@ -59,7 +59,7 @@ You can see `std::vector` in action in:
 
 ---
 
-![ArrayVector](./AV.jpg)
+![ArrayVector](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/module1/vector-array/vectorarray.jpg)
 
 ---
 

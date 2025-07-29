@@ -53,27 +53,20 @@ All projects are developed and tested using:
 ```
 cpp-advanced-projects/
 ├── templates/
-├── basic-cpp/
-│   ├── build
-│   ├── CMakeLists.txt
-│   ├── src/
-│   │   └── main.cpp
-│   └── include/
-│       └── include_file.hpp
-├── projeto1/
-├── project_name/
-│   ├── build
-│   ├── CMakeLists.txt
-│   ├── src/
-│   │   └── main.cpp
-│   └── include/
-│       └── include_file.hpp
-├── stl-containers/
-├── stl-algorithms/
-├── sorting-merging/
-├── advanced-io/
-├── utilities-functors/
+│   └── basic-cpp/
+│       ├── build
+│       ├── CMakeLists.txt
+│       ├── src/
+│       │   └── Array.cpp
+│       │   └── main.cpp
+│       └── include/
+│           └── Array.hpp
+│       .
+│       .
+│       .
+│
 └── README.md
+
 ```
 
 Each folder includes:

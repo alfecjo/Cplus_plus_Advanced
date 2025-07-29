@@ -94,3 +94,10 @@ Feel free to explore, clone, and adapt the projects as needed. Contributions and
 **Created by:** Antonio Almeida  
 **Platform:** Ubuntu + GCC  
 **Language:** C++17/C++20  
+
+---
+
+---
+
+- ## Return
+  [![Main Page](https://img.shields.io/badge/Main-Page?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo)

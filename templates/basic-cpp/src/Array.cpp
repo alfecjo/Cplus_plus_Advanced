@@ -25,7 +25,7 @@ void Array::add(int value) {
 }
 
 void Array::delItem(unsigned index) {
-    if (index >= _size) return; // ignorar índice inválido
+    if (index >= _size) return; // Ignore if index is out of bounds
 
     if (_size == 1) {
         delete[] _array;

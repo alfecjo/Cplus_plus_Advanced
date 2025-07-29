@@ -4,7 +4,7 @@
 int main() {
     Array arr;
 
-    // Adiciona valores
+    //add some elements to the array
     arr.add(10);
     arr.add(20);
     arr.add(30);
@@ -15,7 +15,7 @@ int main() {
     }
     std::cout << "\n";
 
-    // Remove um elemento
+    // delete an element at index 1
     arr.delItem(1);
 
     std::cout << "Array after deleting index 1:\n";

@@ -38,6 +38,10 @@ The concepts shown here are commonly found in:
   - [cplusplus.com – Dynamic Memory](https://cplusplus.com/doc/tutorial/dynamic/)  
   - [cppreference.com – new/delete](https://en.cppreference.com/w/cpp/language/new)
 
+---
+![Final Development](https://github.com/alfecjo/Cplus_plus_Advanced/blob/main/templates/basic-cpp/assets/BasicCppTemplate.png)
+---
+
 ## How to Build
 
 ```bash

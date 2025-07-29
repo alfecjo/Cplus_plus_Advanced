@@ -49,6 +49,7 @@ The concepts shown here are commonly found in:
 ```bash
 g++ -o array main.cpp Array.cpp
 ./array
+```
 
 ---
 

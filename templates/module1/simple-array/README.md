@@ -39,7 +39,8 @@ The concepts shown here are commonly found in:
   - [cppreference.com – new/delete](https://en.cppreference.com/w/cpp/language/new)
 
 ---
-![Final Development](https://github.com/alfecjo/Cplus_plus_Advanced/upload/main/templates/module1/simple-array)
+
+![SimpleArray](https://github.com/alfecjo/Cplus_plus_Advanced/upload/main/templates/module1/simple-array.png)
 
 ---
 

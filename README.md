@@ -60,19 +60,28 @@ All projects are developed and tested using:
 ## 📂 Repository Structure
 
 ```
-cpp-advanced-projects/
-├── templates/
-│   └── basic-cpp/
-│       ├── build
-│       ├── CMakeLists.txt
-│       ├── src/
-│       │   └── Array.cpp
-│       │   └── main.cpp
-│       └── include/
-│           └── Array.hpp
-│       .
-│       .
-│       .
+Cplus_plus_Advanced/templates/
+├── module1/
+│   └── simple-array/
+│   │   ├── src/
+│   │   │   └── Array.cpp
+│   │   │   └── main.cpp
+│   │   └── include/
+│   │   │   └── Array.hpp
+│   │   └── CMakeLists.txt
+│   │   └── README.md
+│   │   
+│   └── vector-array/
+│   │   ├── src/
+│   │   │   └── ArrayVector.cpp
+│   │   │   └── main.cpp
+│   │   └── include/
+│   │   │   └── ArrayVector.hpp
+│   │   └── CMakeLists.txt
+│   │   └── README.md
+│   .
+│   .
+│   .
 │
 └── README.md
 

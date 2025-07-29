@@ -51,6 +51,13 @@ g++ -o array main.cpp Array.cpp
 ./array
 
 ```
+---
+
+## 👤 Author
+**[Antonio Almeida](https://alfecjo.github.io/)**
+
+**Platform:** Ubuntu + GCC  
+**Language:** C++17/C++20  
 
 ---
 

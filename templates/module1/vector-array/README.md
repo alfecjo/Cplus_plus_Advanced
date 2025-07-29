@@ -59,7 +59,7 @@ You can see `std::vector` in action in:
 
 ---
 
-![ArrayVector](./ArrayVector.png)
+![ArrayVector](./AV.jpg)
 
 ---
 

@@ -70,6 +70,13 @@ g++ -std=c++17 -o array main.cpp ArrayVector.cpp
 ./array
 
 ```
+---
+
+## 👤 Author
+**[Antonio Almeida](https://alfecjo.github.io/)**
+
+**Platform:** Ubuntu + GCC  
+**Language:** C++17/C++20  
 
 ---
 

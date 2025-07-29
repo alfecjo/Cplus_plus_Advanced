@@ -69,6 +69,8 @@ You can see `std::vector` in action in:
 g++ -std=c++17 -o array main.cpp ArrayVector.cpp
 ./array
 
+```
+
 ---
 
 - ## Return to the main page

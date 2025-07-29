@@ -54,5 +54,5 @@ g++ -o array main.cpp Array.cpp
 ---
 
 - ## Return to the main page
-  [![C++ Advanced](https://img.shields.io/badge/C++_Advanced-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
+  [![C++ Advanced Projects](https://img.shields.io/badge/C++_Advanced-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
 

@@ -97,7 +97,5 @@ Feel free to explore, clone, and adapt the projects as needed. Contributions and
 
 ---
 
----
-
 - ## Return
   [![Main Page](https://img.shields.io/badge/Main-Page?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo)

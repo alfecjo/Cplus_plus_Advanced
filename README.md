@@ -95,7 +95,9 @@ Feel free to explore, clone, and adapt the projects as needed. Contributions and
 
 ---
 
-**Created by:** Antonio Almeida  
+## 👤 Author
+**[Antonio Almeida](https://alfecjo.github.io/)**
+
 **Platform:** Ubuntu + GCC  
 **Language:** C++17/C++20  
 

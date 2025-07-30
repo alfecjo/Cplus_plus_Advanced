@@ -1,17 +1,14 @@
 # Sequence Containers in C++
 
-Sequence containers are fundamental components of the C++ Standard Template Library (STL). They store collections of elements in a **linear arrangement**, where the **position of each element** is **explicitly controlled by the programmer**.
+## 🧾 Overview
+
+**Sequence containers** are fundamental components of the C++ Standard Template Library (STL). They store collections of elements in a **linear arrangement**, where the **position of each element** is **explicitly controlled by the programmer**.
 
 Unlike associative containers, sequence containers do **not associate elements with keys**, and the container **does not influence** the order — insertion, removal, and manipulation are performed at positions specified by the programmer.
 
-## Key Characteristics
+---
 
-- Elements are ordered by position (not by key).
-- Access can be positional (e.g., via iterators or indices).
-- They are suitable for stacks, queues, dynamic arrays, etc.
-- Memory and performance characteristics vary between types.
-
-## Types of Sequence Containers
+## 📦 Types of Sequence Containers
 
 The STL provides the following sequence containers:
 
@@ -30,13 +27,33 @@ The STL provides the following sequence containers:
 - No random access — elements must be traversed sequentially.
 - Efficient when frequent insertions/deletions occur at arbitrary positions.
 
-## When to Use
+---
+
+## ⚙️ Key Characteristics
+
+- Elements are ordered by position (not by key).
+- Access can be positional (e.g., via iterators or indices).
+- They are suitable for stacks, queues, dynamic arrays, etc.
+- Memory and performance characteristics vary between types.
+
+---
+
+## ✅ When to Use
 
 | Container | Best For                                      |
 |-----------|-----------------------------------------------|
 | `vector`  | Random access and appending data              |
 | `deque`   | Queues, stacks, both ends usage               |
 | `list`    | Insertions/removals in the middle or front    |
+
+---
+
+## 🛠️ Build Instructions
+
+If your repository includes buildable source files:
+```bash
+g++ -std=c++17 -o my_program main.cpp
+./my_program
 
 ---
 

@@ -38,7 +38,7 @@ The STL provides the following sequence containers:
 
 ---
 
-[SequentialContainers](./SequentialContainers.jpg)
+[Sequential Containers](./SequentialContainers.jpg)
 
 ---
 

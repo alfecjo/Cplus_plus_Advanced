@@ -11,8 +11,6 @@ Contents may include:
 
 ---
 
----
-
 ## 👤 Author
 **[Antonio Almeida](https://alfecjo.github.io/)**
 

@@ -13,11 +13,19 @@ The goal of these examples is to:
 
 ## Containers Covered
 
-- **`std::vector`** – Examples of element insertion, deletion by position or iterator, reverse iteration, and interaction with custom objects.
-- **`std::deque`** – Used as an underlying container to initialize a stack.
-- **`std::list`** – Tested for compatibility and interoperability with other container adapters.
-- **`std::stack`** – Stack container adapter used with different underlying containers.
-- **Pointer containers** – Handling dynamically allocated objects within containers and ensuring proper cleanup.
+---
+## Module 1
+
+### 📘 STL Sequential Containers  
+[![Project 001](https://img.shields.io/badge/Sequential-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/001%20STL%20Sequential%20Containers)
+
+### 📘 STL Associative Containers
+[![Project 002](https://img.shields.io/badge/Associative-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/002%20STL%20Associative%20Containers)
+
+### 📘 Bonus 
+[![Tests](https://img.shields.io/badge/Bonus-Module1-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/999%20Bonus)
+
+---
 
 ## Key Features
 

@@ -38,6 +38,10 @@ The STL provides the following sequence containers:
 
 ---
 
+[Sequential Containers](./SequentialContainers.jpg)
+
+---
+
 ## ✅ When to Use
 
 | Container | Best For                                      |

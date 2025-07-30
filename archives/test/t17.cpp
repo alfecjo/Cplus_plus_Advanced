@@ -1,0 +1,27 @@
+#include <vector>
+#include <iostream>
+
+using namespace std;
+
+template <typename T>
+ostream& print(T start, T end)
+{
+  for (; start != end; ++start)
+  {
+    cout << *start << " ";
+  }
+  return cout;
+}
+
+int main()
+{
+  int tab[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+  vector<int> v1(tab, tab + 10);
+
+  vector<int>::const_iterator it = v1.begin() + 3;
+  v1.erase(it, it + 1);
+  print(v1.begin(), v1.end());
+  cout << v1.size() << endl;
+
+  return 0;
+}

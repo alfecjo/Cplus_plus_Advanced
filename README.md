@@ -47,7 +47,9 @@ The STL is generally divided into two main parts:
 
 ---
 
+![STL](./STL.jpg)
 
+---
 
 ## 🔧 Core Competencies Demonstrated
 

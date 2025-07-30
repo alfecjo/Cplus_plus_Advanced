@@ -61,7 +61,6 @@ g++ -std=c++17 -o my_program main.cpp
 > ⚠️ Choose the container based on your performance and memory needs. Not all sequence containers are equal in complexity and speed.
 
 ---
----
 
 ## 👤 Author
 **[Antonio Almeida](https://alfecjo.github.io/)**

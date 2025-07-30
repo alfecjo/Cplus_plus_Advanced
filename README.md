@@ -42,6 +42,9 @@ These projects are structured to reflect not only my learning journey but also m
 ### 📘 Project 002 — VectorArray  
 [![Project 002](https://img.shields.io/badge/Project_001-Array-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/templates/module1/vector-array)
 
+### 📘 Tests — Module 1  
+[![Tests](https://img.shields.io/badge/Tests_Module1-Array-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
+
 ---
 
 📌 **Note:** This project is evolving. More modules, examples, and advanced C++ features will be continuously added.

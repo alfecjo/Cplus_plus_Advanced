@@ -13,9 +13,6 @@ The goal of these examples is to:
 
 ## Containers Covered
 
----
-## Module 1
-
 ### 📘 STL Sequential Containers  
 [![Project 001](https://img.shields.io/badge/Sequential-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/001%20STL%20Sequential%20Containers)
 

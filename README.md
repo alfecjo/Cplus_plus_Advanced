@@ -43,7 +43,7 @@ These projects are structured to reflect not only my learning journey but also m
 [![Project 002](https://img.shields.io/badge/Project_002-Vector-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/templates/module1/vector-array)
 
 ### 📘 Tests — Module 1  
-[![Tests](https://img.shields.io/badge/Tests_Module1-Array-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
+[![Tests](https://img.shields.io/badge/Tests_Module1-Containers-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
 
 ---
 

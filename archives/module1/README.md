@@ -32,15 +32,6 @@ The goal of these examples is to:
 - Explicit **memory management** (`new` and `delete`) when using containers of pointers.
 - Template-based **generic print functions** for iterators.
 
-## How to Use
-
-Each program is self-contained and can be compiled individually with any standard C++ compiler, such as `g++`:
-
-```bash
-g++ tx.cpp -o tx
-./tx
-
-```
 ---
 
 ## 👤 Author

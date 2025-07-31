@@ -20,7 +20,7 @@ The goal of these examples is to:
 [![Project 002](https://img.shields.io/badge/Associative-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/002_STL-AssociativeContainers)
 
 ### 📘 Bonus 
-[![Tests](https://img.shields.io/badge/Bonus-Module1-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/999%20Bonus)
+[![Tests](https://img.shields.io/badge/Bonus-Module1-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/999_Bonus)
 
 ---
 

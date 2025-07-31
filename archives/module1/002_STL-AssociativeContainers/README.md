@@ -30,6 +30,10 @@ The STL provides four main types of associative containers:
 
 ---
 
+![Associative Containers](./AssociativeContainers.jpg)
+
+---
+
 ## ✅ Example Use Cases
 
 - Implementing dictionaries or lookup tables (`map`/`multimap`)

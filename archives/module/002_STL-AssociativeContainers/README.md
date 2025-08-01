@@ -45,6 +45,11 @@ The STL provides four main types of associative containers:
 
 ---
 
+### 📘 STL Associative Containers - mixed examples
+[![Project 002](https://img.shields.io/badge/Associative-Containers_examples-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/002_STL-AssociativeContainers/mixed)
+
+---
+
 ## 📚 Further Reading
 
 - [C++ Reference - Associative Containers](https://en.cppreference.com/w/cpp/container)

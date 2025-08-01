@@ -95,44 +95,6 @@ All projects are developed and tested using:
 
 ---
 
-## 📂 Repository Structure
-
-```
-Cplus_plus_Advanced/templates/
-├── module1/
-│   └── simple-array/
-│   │   ├── src/
-│   │   │   └── Array.cpp
-│   │   │   └── main.cpp
-│   │   └── include/
-│   │   │   └── Array.hpp
-│   │   └── CMakeLists.txt
-│   │   └── README.md
-│   │   
-│   └── vector-array/
-│   │   ├── src/
-│   │   │   └── ArrayVector.cpp
-│   │   │   └── main.cpp
-│   │   └── include/
-│   │   │   └── ArrayVector.hpp
-│   │   └── CMakeLists.txt
-│   │   └── README.md
-│   .
-│   .
-│   .
-│
-└── README.md (this file)
-
-```
-
-Each folder includes:
-- Source code files (`.cpp`)
-- Headers (`.h`/`.hpp`)
-- Compilation instructions
-- Sample output or test data where applicable
-
----
-
 ## 🎯 Purpose
 
 This repository not only supports my preparation for CPP certification but also serves as a showcase of applied C++ knowledge.  

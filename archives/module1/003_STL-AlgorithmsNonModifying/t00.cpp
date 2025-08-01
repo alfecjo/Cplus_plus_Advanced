@@ -120,5 +120,13 @@ int main()
     for_each(s1.begin(), s1.end(), Print());
     cout << endl << endl;
 
+    // por fim lambda... [](const int&) {} (sugestão)
+    cout << "Print all elements of the list - using lambda\n";
+    for_each(l1.begin(), l1.end(), [](const int& value) {
+        cout << value << " ";
+    });
+    cout << endl << endl;
+
+
     return 0;
 }

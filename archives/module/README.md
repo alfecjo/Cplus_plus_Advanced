@@ -14,13 +14,13 @@ The goal of these examples is to:
 ## Containers Covered
 
 ### 📘 STL Sequential Containers  
-[![Project 001](https://img.shields.io/badge/Sequential-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/001_STL-SequentialContainers)
+[![Project 001](https://img.shields.io/badge/Sequential-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/001_STL-SequentialContainers)
 
 ### 📘 STL Associative Containers
-[![Project 002](https://img.shields.io/badge/Associative-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/002_STL-AssociativeContainers)
+[![Project 002](https://img.shields.io/badge/Associative-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/002_STL-AssociativeContainers)
 
 ### 📘 STL Algorithms Non-Modifying
-[![Project 003](https://img.shields.io/badge/Algorithms-Non_Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/003_STL-AlgorithmsNonModifying)
+[![Project 003](https://img.shields.io/badge/Algorithms-Non_Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/003_STL-AlgorithmsNonModifying)
 
 ### 📘 Bonus 
 [![Tests](https://img.shields.io/badge/Bonus-Module1-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/999_Bonus)

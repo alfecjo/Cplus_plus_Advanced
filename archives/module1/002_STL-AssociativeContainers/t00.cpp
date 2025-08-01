@@ -10,7 +10,7 @@ Associative Containers – STL C++
 
 Esses containers armazenam pares *chave-valor* ou apenas *chaves*, mantendo os dados
 automaticamente ordenados por chave.
-Utilizam estruturas internas como árvores balanceadas (geralmente Red-Black Tree)
+Utilizam estruturas internas como árvores balanceadas (geralmente Red-Black Tree -> n sei se Flamengo, S C do Recife, C A Paranaense ou Grêmio Esportivo Brasil, kkk)
 para garantir desempenho log(n) em busca, inserção e remoção.
 
  set:

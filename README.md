@@ -76,10 +76,9 @@ The STL is generally divided into two main parts:
 - Stream formatting and string streams.
 
 ---
-## STL
 
-### 📘 Module 1  
-[![Tests](https://img.shields.io/badge/Tests_Module1-Containers-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
+### 📘 Modules  
+[![Tests](https://img.shields.io/badge/Sequential-Containers-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
 
 ---
 

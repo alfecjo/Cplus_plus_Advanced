@@ -19,6 +19,9 @@ The goal of these examples is to:
 ### 📘 STL Associative Containers
 [![Project 002](https://img.shields.io/badge/Associative-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/002_STL-AssociativeContainers)
 
+### 📘 STL Algorithms NonModifying
+[![Project 003](https://img.shields.io/badge/Algorithms-NonModifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/003_STL-AlgorithmsNonModifying)
+
 ### 📘 Bonus 
 [![Tests](https://img.shields.io/badge/Bonus-Module1-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1/999_Bonus)
 

@@ -35,7 +35,7 @@ Some of the most commonly used non-modifying algorithms include:
 
 ---
 
-## ✅ Key Functions
+## 📌 Key Functions
 
 - std::find / std::find_if
   Finds the first element equal to a given value or that satisfies a condition.
@@ -51,10 +51,6 @@ Some of the most commonly used non-modifying algorithms include:
   Compare two sequences to detect differences or confirm equality.
 - std::adjacent_find
   Detects adjacent duplicate elements.
-
----
-
-## 📌 Key Functions
 
 🔍 Searching for an element in a vector (std::find)
 

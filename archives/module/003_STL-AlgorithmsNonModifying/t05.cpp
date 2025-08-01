@@ -7,10 +7,10 @@ using namespace std;
 
 // Simulação de sensores: cada sensor possui um ID e um valor de leitura
 int main() {
-    // Mapa de sensores (ID -> Leitura). Ex: Sensor 1 => 22.5°C
+    // mapa de sensores (ID -> Leitura). Ex: Sensor 1 => 22.5°C
     map<uint8_t, float> sensores;
 
-    // Populando o mapa com valores fictícios de sensores
+    // populando o mapa com valores fictícios de sensores
     sensores[1] = 22.5f;     // Temperatura ambiente
     sensores[2] = 101.3f;    // Pressão em kPa
     sensores[3] = 3.3f;      // Tensão em volts

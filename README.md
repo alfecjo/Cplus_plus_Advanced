@@ -78,7 +78,7 @@ The STL is generally divided into two main parts:
 ---
 
 ### 📘 Modules  
-[![Tests](https://img.shields.io/badge/Sequential-Containers-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
+[![Tests](https://img.shields.io/badge/Standard_Template_Library-STL-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
 
 ---
 

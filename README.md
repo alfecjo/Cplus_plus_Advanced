@@ -45,7 +45,7 @@ The STL is generally divided into two main parts:
 > 🧠 STL promotes writing generic and reusable code, following the principles of generic programming.
 
 <p align="center">
-  <img src="./diagramSTL.jpg" alt="Use diagram STL" width="250"/>
+  <img src="./diagramSTL.jpg" alt="Use diagram STL" />
 </p>
 
 ---

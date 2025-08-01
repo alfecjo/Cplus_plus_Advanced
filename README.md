@@ -75,15 +75,9 @@ The STL is generally divided into two main parts:
 - Stream formatting and string streams.
 
 ---
-## Module 1
+## STL
 
-### 📘 Project 001 — SimpleArray  
-[![Project 001](https://img.shields.io/badge/Project_001-Array-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/templates/module1/simple-array)
-
-### 📘 Project 002 — VectorArray  
-[![Project 002](https://img.shields.io/badge/Project_002-Vector-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/templates/module1/vector-array)
-
-### 📘 Tests — Module 1  
+### 📘 Module 1  
 [![Tests](https://img.shields.io/badge/Tests_Module1-Containers-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module1)
 
 ---

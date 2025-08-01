@@ -45,7 +45,7 @@ The STL is generally divided into two main parts:
 > 🧠 STL promotes writing generic and reusable code, following the principles of generic programming.
 
 
-![STL](./STL.jpg)
+![STL](./diagramSTL.jpg)
 
 ---
 

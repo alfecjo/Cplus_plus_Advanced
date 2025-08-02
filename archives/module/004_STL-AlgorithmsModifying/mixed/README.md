@@ -22,6 +22,8 @@ We simulate the noisy signal using a random generator and apply a **low-pass fil
 
 ```cpp
 filtered = alpha * new_sample + (1 - alpha) * previous_filtered;
+
+```
 ---
 
 ## 🛠️ Build Instructions

@@ -4,7 +4,7 @@
 
 This project demonstrates the use of **modifying algorithms** from the C++ Standard Library in the context of **signal filtering** — specifically, applying a **low-pass filter** to noisy sensor data. This is particularly relevant in fields like engineering, instrumentation, and embedded systems, where signals acquired from sensors often contain noise due to environmental or electrical interference.
 
-![low-pass filter]() 
+![low-pass filter](./low_pass_filter.jpg) 
 
 ## 🧪 Scenario
 

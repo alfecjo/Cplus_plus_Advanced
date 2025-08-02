@@ -52,6 +52,11 @@ The STL provides the following sequence containers:
 
 ---
 
+### 📘 STL Sequential Containers - mixed examples
+[![Sequential Containers](https://img.shields.io/badge/Sequential-Containers_examples-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/001_STL-SequentialContainers/mixed)
+
+---
+
 ## 🛠️ Build Instructions
 
 If your repository includes buildable source files:

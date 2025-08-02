@@ -72,6 +72,11 @@ Some commonly used modifying algorithms include:
 
 ---
 
+### 📘 STL Algorithms Non-Modifying - mixed examples
+[![Project 002](https://img.shields.io/badge/Algorithms_Non_Modifying-Mixed_examples-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/003_STL-AlgorithmsNonModifying/mixed)
+
+---
+
 ## 📚 Further Reading
 
 - [C++ Reference - Modifying Sequence Operations](https://en.cppreference.com/w/cpp/algorithm#Modifying_sequence_operations)

@@ -21,8 +21,6 @@ Some commonly used modifying algorithms include:
 - `std::reverse`, `std::rotate`
 - `std::partition`, `std::stable_partition`
 
-- [`std::containers`](https://en.cppreference.com/w/cpp/container.html): Containers.
-
 > ⚠️ Note: These functions often require output iterators or allow in-place modification. Use them carefully with regard to container size and iterator validity.
 
 ---

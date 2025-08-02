@@ -7,9 +7,9 @@
 using namespace std;
 
 int main() {
-    // ---------------------------------------
-    // 1. VECTOR — sequência linear mutável
-    // ---------------------------------------
+    
+    // Vector - sequência linear mutável
+    
     vector<int> v = {1, 2, 3, 4, 5};
 
     cout << "Original vector: ";
@@ -23,9 +23,8 @@ int main() {
     cout << endl;
 
 
-    // ---------------------------------------
-    // 2. DEQUE — sequência linear mutável (como vector)
-    // ---------------------------------------
+    
+    // DEQUE — sequência linear mutável (como vector)
     deque<int> d = {10, 20, 30, 40, 50};
 
     cout << "\nOriginal deque: ";
@@ -37,28 +36,26 @@ int main() {
     cout << "Reversed deque: ";
     for (int x : d) cout << x << " ";
     cout << endl;
-
-
-    // ---------------------------------------
-    // 3. SET — estrutura ordenada automaticamente (não mutável por posição)
-    // ---------------------------------------
+    
+    // SET — estrutura ordenada automaticamente (não mutável por posição)
+    
     set<int> s = {100, 50, 300, 200};
 
     cout << "\nOriginal set (ordenado automaticamente): ";
     for (int x : s) cout << x << " ";
     cout << endl;
 
-    // ❌ Não podemos usar reverse(s.begin(), s.end()) diretamente
+    // Não podemos usar reverse(s.begin(), s.end()) diretamente
     //     Isso daria erro de compilação porque os iteradores de set são constantes
     //     e a estrutura mantém a ordenação automática (não faz sentido inverter).
 
-    // ✅ Mas podemos iterar em ordem reversa usando rbegin() e rend()
+    //  mas podemos iterar em ordem reversa usando rbegin() e rend()
     cout << "Iterating set in reverse order (com rbegin/rend): ";
     for (auto it = s.rbegin(); it != s.rend(); ++it)
         cout << *it << " ";
     cout << endl;
 
-    // ✅ Ou podemos copiar os elementos do set para um vector, e inverter lá
+    // Ou podemos copiar os elementos do set para um vector, e inverter lá
     vector<int> v_from_set(s.begin(), s.end());
     reverse(v_from_set.begin(), v_from_set.end());
 

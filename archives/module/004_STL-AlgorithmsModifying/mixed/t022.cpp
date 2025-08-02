@@ -27,14 +27,14 @@ struct Sequence {
 };
 
 int main() {
-    vector<int> v1(4);  // Vetor v1 com 4 posições
+    vector<int> v1(4);  
     vector<int> v2(4);  // Vetor v2 com 4 posições (será usado como destino da cópia reversa)
 
     // Preenche v1 com valores gerados por Sequence(10)
     // A sequência será: 10 % 7 = 3, 11 % 7 = 4, 12 % 7 = 5, 13 % 7 = 6 → v1 = [3, 4, 5, 6]
     generate(v1.begin(), v1.end(), Sequence(10));
 
-    // Copia os elementos de v1 em ordem reversa para v2, mas no final invertido usando rbegin()
+    // copia os elementos de v1 em ordem reversa para v2, mas no final invertido usando rbegin()
     // v1 = [3, 4, 5, 6] → reverse = [6, 5, 4, 3] → v2 = [3, 4, 5, 6]
     reverse_copy(v1.begin(), v1.end(), v2.rbegin());
 
@@ -44,7 +44,7 @@ int main() {
     // O correto seria usar std::less<int>(), que é o padrão.
     sort(v2.begin(), v2.end(), less<int>());  // Corrigido para evitar comportamento indefinido
 
-    // Imprime os elementos de v2 usando o functor Out
+    
     for_each(v2.begin(), v2.end(), Out<int>(cout));
     cout << endl;
 

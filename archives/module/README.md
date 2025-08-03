@@ -25,6 +25,12 @@ The goal of these examples is to:
 ### 📘 STL Algorithms Modifying
 [![Algorithms Modifying](https://img.shields.io/badge/Algorithms-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/004_STL-AlgorithmsModifying)
 
+### 📘 STL Sorting Operations Algorithms
+[![Sorting Operations Algorithms](https://img.shields.io/badge/Algorithms-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/005_STL-SortingOperationsAlgorithms)
+
+### 📘 STL Merge Operations
+[![Merge Operations](https://img.shields.io/badge/Algorithms-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/manutencao)
+
 ### 📘 Bonus 
 [![Tests](https://img.shields.io/badge/Bonus-Extra-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/999_Bonus)
 

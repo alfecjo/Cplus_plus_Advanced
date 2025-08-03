@@ -14,22 +14,22 @@ The goal of these examples is to:
 ## Containers Covered
 
 ### 📘 STL Sequential Containers  
-[![Sequential Containers](https://img.shields.io/badge/Sequential-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/001_STL-SequentialContainers)
+[![Sequential Containers](https://img.shields.io/badge/STL-Sequential_Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/001_STL-SequentialContainers)
 
 ### 📘 STL Associative Containers
-[![Associative Containers](https://img.shields.io/badge/Associative-Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/002_STL-AssociativeContainers)
+[![Associative Containers](https://img.shields.io/badge/STL-Associative_Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/002_STL-AssociativeContainers)
 
 ### 📘 STL Algorithms Non-Modifying
-[![Algorithms Non-Modifying](https://img.shields.io/badge/Algorithms-Non_Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/003_STL-AlgorithmsNonModifying)
+[![Algorithms Non-Modifying](https://img.shields.io/badge/STL-Algorithms_Non-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/003_STL-AlgorithmsNonModifying)
 
 ### 📘 STL Algorithms Modifying
-[![Algorithms Modifying](https://img.shields.io/badge/Algorithms-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/004_STL-AlgorithmsModifying)
+[![Algorithms Modifying](https://img.shields.io/badge/STL-Algorithms_Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/004_STL-AlgorithmsModifying)
 
 ### 📘 STL Sorting Operations Algorithms
-[![Sorting Operations Algorithms](https://img.shields.io/badge/Algorithms-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/005_STL-SortingOperationsAlgorithms)
+[![Sorting Operations Algorithms](https://img.shields.io/badge/STL-Sorting_Operations_Algorithms-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/005_STL-SortingOperationsAlgorithms)
 
 ### 📘 STL Merge Operations
-[![Merge Operations](https://img.shields.io/badge/Algorithms-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/manutencao)
+[![Merge Operations](https://img.shields.io/badge/STL-Merge_Operations-blue?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 
 ### 📘 Bonus 
 [![Tests](https://img.shields.io/badge/Bonus-Extra-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/999_Bonus)

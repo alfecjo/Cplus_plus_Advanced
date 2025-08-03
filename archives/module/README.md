@@ -20,7 +20,7 @@ The goal of these examples is to:
 [![Associative Containers](https://img.shields.io/badge/STL-Associative_Containers-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/002_STL-AssociativeContainers)
 
 ### 📘 STL Algorithms Non-Modifying
-[![Algorithms Non-Modifying](https://img.shields.io/badge/STL-Algorithms_Non-Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/003_STL-AlgorithmsNonModifying)
+[![Algorithms Non-Modifying](https://img.shields.io/badge/STL-Algorithms_Non_Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/003_STL-AlgorithmsNonModifying)
 
 ### 📘 STL Algorithms Modifying
 [![Algorithms Modifying](https://img.shields.io/badge/STL-Algorithms_Modifying-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/004_STL-AlgorithmsModifying)

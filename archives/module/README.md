@@ -29,7 +29,10 @@ The goal of these examples is to:
 [![Sorting Operations Algorithms](https://img.shields.io/badge/STL-Sorting_Operations_Algorithms-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/005_STL-SortingOperationsAlgorithms)
 
 ### 📘 STL Merge Operations
-[![Merge Operations](https://img.shields.io/badge/STL-Merge_Operations-blue?style=for-the-badge)](https://github.com/alfecjo/manutencao)
+[![Merge Operations](https://img.shields.io/badge/STL-Merge_Operations-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/006_STL-MergeOperations)
+
+### 📘 STL Utilities And Functional Tools
+[![Merge Operations](https://img.shields.io/badge/STL-Utilities_And_Functional_Tools-blue?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/007-STL-UtilitiesAndFunctionalTools)
 
 ### 📘 Bonus 
 [![Tests](https://img.shields.io/badge/Bonus-Extra-orange?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main/archives/module/999_Bonus)

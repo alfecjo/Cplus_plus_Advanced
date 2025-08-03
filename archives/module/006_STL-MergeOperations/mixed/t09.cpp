@@ -1,0 +1,38 @@
+#include <vector>
+
+#include <iostream>
+
+#include <algorithm>
+
+using namespace std;
+
+void
+printer (int i)
+{
+
+  cout << i << ", ";
+
+}
+
+int
+main ()
+{
+
+  int mynumbers1[] = { 3, 9, 0, 2 };
+
+  int mynumbers2[] = { 6, 1, 4, 2 };
+
+  vector < int >v1 (7);
+
+  sort (mynumbers2, mynumbers2 + 4);
+
+  sort (mynumbers1, mynumbers1 + 4);    //LINE I
+
+  set_intersection (mynumbers1, mynumbers1 + 3, mynumbers2, mynumbers2 + 3, v1.begin ());    //LINE II
+
+  for_each (v1.begin (), v1.end (), printer);
+
+  return 0;
+
+}
+

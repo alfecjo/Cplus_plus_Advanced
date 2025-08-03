@@ -1,0 +1,24 @@
+#include <vector>
+
+#include <iostream>
+
+#include <algorithm>
+
+#include <functional>
+
+using namespace std;
+
+int
+main ()
+{
+
+  int mynumbers[] = { 3, 9, 0, 2, 1, 4, 5 };
+
+  vector < int >v1 (mynumbers, mynumbers + 7);    //LINE I
+
+  cout << *max_element (v1.begin (), v1.end ()) << ", ";    //LINE II
+
+  return 0;
+
+}
+
